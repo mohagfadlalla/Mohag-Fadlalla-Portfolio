@@ -24,10 +24,10 @@ _Carbon Dioxide Emissions
 
 ---
 ## Connect with me 
--linkden
+-linkden : https://www.linkedin.com/in/mohag-fadlalla
 
--Email
+-Email : mohag.fadlalla@gmail.com 
 
 ---
 **Note** This Repository is for Portfolio Purposes Only.
-ALL rights recerved -please don't copy or use withput permission.
+ALL rights recerved -please don't copy or use without permission.
