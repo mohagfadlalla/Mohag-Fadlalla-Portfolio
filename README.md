@@ -21,6 +21,7 @@ _Google & Facebook ADS
 ### Power BI 
 _Carbon Dioxide Emissions
 ### SQL 
+_Online Gift Store Sales
 
 ---
 ## Connect with me 
