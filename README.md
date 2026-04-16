@@ -1,18 +1,18 @@
 # Hi I am Mohag! 👋Welcome to my Portfolio!
 
 ### Junior Data Analyst📊
-This repository Showcases Projects Where I applied Data analysis in Real Datasets ,foucsing on asking the right questions,data Cleaning ,data Modeling ,data quality ,data Manipulation ,data analysis ,data Visualization and generating valuable Insights to inform-decision-making .
+This repository Showcases Projects Where I applied Data analysis in Real Datasets ,foucsing on asking the right Questions,Data Cleaning ,Data Modeling ,Data Quality ,Data Manipulation ,Data Analysis ,Data Visualization and Generating Valuable Insights to inform-decision-making.
 ---
 ### Skills & Tools🛠️:
-_**Python** 
+_**Python**: 
 
-_**SQL** Joins , Subquery & CTE ,Window Functions , Stored Procedures and Functions , Prepared Statement , Transaction Statements ,Trigger ,Index ,performance optimization ,Json and handle events data , aggregations.
+_**SQL**: Joins , Subquery & CTE ,Window Functions , Stored Procedures and Functions , Prepared Statement , Transaction Statements ,Trigger ,Index ,performance optimization ,Json and handle events data , aggregations.
 
-_**Power BI** Data Modeling , DAX , Data Visualization ,Power bi server(puplish,create workspace , schedule refresh , gateway ,Dahsboard , permission  ) ,RlS security.
+_**Power BI**: Data Modeling , DAX , Data Visualization ,Power bi server(puplish,create workspace , schedule refresh , gateway ,Dahsboard , permission  ) ,RlS security.
 
-_**Excel** advanced formulas ,Pivot(tables ,charts), Power Query , Power Pivot ,Data Modeling ,DAX ,Data qualtiy ,Data cleaning , data viualization 
+_**Excel**: advanced formulas ,Pivot(tables ,charts), Power Query , Power Pivot ,Data Modeling ,DAX ,Data qualtiy ,Data cleaning , data visualization, goalseek ,solver , 
 
-_**Data Analysis** 
+_**Data Analysis**:
 
 ---
 ### Projects 🗃️:
@@ -21,7 +21,7 @@ _**Data Analysis**
 
 ---
 ## Connect with me📪:
--**linkden**: https://www.linkedin.com/in/mohag-fadlalla
+-**linkedin**: https://www.linkedin.com/in/mohag-fadlalla
 
 -**Email** : mohag.fadlalla@gmail.com 
 
