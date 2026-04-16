@@ -1,9 +1,9 @@
-# Hi I am Mohag! Welcome to my Portfolio!
+# Hi I am Mohag! 👋Welcome to my Portfolio!
 
-### Junior Data Analyst
+### Junior Data Analyst📊
 This repository Showcases Projects Where I applied Data analysis in Real Datasets ,foucsing on asking the right questions,data Cleaning ,data Modeling ,data quality ,data Manipulation ,data analysis ,data Visualization and generating valuable Insights to inform-decision-making .
 ---
-### Tools & Skills:
+### Skills & Tools🛠️:
 _**Python** 
 
 _**SQL** Joins , Subquery & CTE ,Window Functions , Stored Procedures and Functions , Prepared Statement , Transaction Statements ,Trigger ,Index ,performance optimization ,Json and handle events data , aggregations.
