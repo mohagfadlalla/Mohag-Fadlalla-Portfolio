@@ -1,5 +1,5 @@
-# Welcome to my Portfolio!
-HI I am Mohag!
+# Hi I am Mohag!
+
 ###Junior Data Analyst
 
 Skilled in SQL , Power BI  and Excel .
