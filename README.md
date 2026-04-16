@@ -1,6 +1,8 @@
-# Mohag-Fadlalla-Portfolio
-Welcome to my Portfolio!
-I'm Mohag , a Data Analyst Skilled in SQL , Power BI  and Excel .
+# Welcome to my Portfolio!
+HI I am Mohag!
+###Junior Data Analyst
+
+Skilled in SQL , Power BI  and Excel .
 This repository Showcases Projects Where I applied Data anlaysis in Real Datasets ,foucsing on Cleaning , Modeling , quality , Manipulation ,Visualization and generating Insights .
 ---
 ## Tools & Skills
