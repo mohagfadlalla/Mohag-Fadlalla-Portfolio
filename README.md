@@ -1,6 +1,6 @@
-# Hi I am Mohag!
+# Hi I am Mohag! Welcome to my Portfolio
 
-###Junior Data Analyst
+### Junior Data Analyst
 
 Skilled in SQL , Power BI  and Excel .
 This repository Showcases Projects Where I applied Data anlaysis in Real Datasets ,foucsing on Cleaning , Modeling , quality , Manipulation ,Visualization and generating Insights .
