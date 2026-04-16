@@ -1,7 +1,7 @@
 # Hi I am Mohag! Welcome to my Portfolio!
 
 ### Junior Data Analyst
-This repository Showcases Projects Where I applied Data anlaysis in Real Datasets ,foucsing on asking the right questions,data Cleaning ,data Modeling ,data quality ,data Manipulation ,data Visualization and generating valuable Insights to inform-decision-making .
+This repository Showcases Projects Where I applied Data analysis in Real Datasets ,foucsing on asking the right questions,data Cleaning ,data Modeling ,data quality ,data Manipulation ,data Visualization and generating valuable Insights to inform-decision-making .
 ---
 ### Tools & Skills:
 _**Python** 
