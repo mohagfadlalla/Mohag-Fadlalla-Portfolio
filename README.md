@@ -15,21 +15,15 @@ _**Excel** advanced formulas ,Pivot(tables ,charts), Power Query , Power Pivot ,
 _**Data Analysis** 
 
 ---
-### Projects 
-### Excel
-_Coffee Sales
+### Projects 🗃️:
+* here are some of the projects i've worked on *
 
-_Google & Facebook ADS
-### Power BI 
-_Carbon Dioxide Emissions
-### SQL 
-_Online Gift Store Sales
 
 ---
-## Connect with me 
--linkden : https://www.linkedin.com/in/mohag-fadlalla
+## Connect with me📪:
+-**linkden**: https://www.linkedin.com/in/mohag-fadlalla
 
--Email : mohag.fadlalla@gmail.com 
+-**Email** : mohag.fadlalla@gmail.com 
 
 ---
 **Note** This Repository is for Portfolio Purposes Only.
